@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HelloWorld/1.0.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Microsoft.Net.Compilers": "3.6.0"
+        },
+        "runtime": {
+          "HelloWorld.dll": {}
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.Net.Compilers/3.6.0": {}
+    }
+  },
+  "libraries": {
+    "HelloWorld/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.Net.Compilers/3.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GnKnGoZeAeZj3AHPq6DcOOWeNaaC19a4fe5fHk+nap7VrLOknniUAoXJy1Rp8U1npF8aIlGV2uRyGDGARtCygg==",
+      "path": "microsoft.net.compilers/3.6.0",
+      "hashPath": "microsoft.net.compilers.3.6.0.nupkg.sha512"
+    }
+  }
+}

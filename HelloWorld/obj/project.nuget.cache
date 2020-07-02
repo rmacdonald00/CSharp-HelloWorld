@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OGR/FVAT58nwO5ffxAEsCrWVN+7hdGyDscxm5/ux0xN4J1GrvsCipbFOqxVM/mp+p71ke/0FuAzGZj+QwgyzlQ==",
+  "success": true,
+  "projectFilePath": "C:\\RobynSideCode\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robyn.Macdonald\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Robyn.Macdonald\\.nuget\\packages\\microsoft.net.compilers\\3.6.0\\microsoft.net.compilers.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
